@@ -14,7 +14,6 @@ Connect with me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 <br>
-📸 Instagram
 <a href="https://www.instagram.com/hasina__0718/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
 </a>
