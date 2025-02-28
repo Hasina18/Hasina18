@@ -25,35 +25,54 @@ Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/>
 <br>
-<p>Python</p>
-<progress value="95" max="100"></progress> <br>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Most Used Programming Languages</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        progress {
+            width: 300px; /* Adjust width as needed */
+            height: 20px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
 
-<p>JavaScript</p>
-<progress value="90" max="100"></progress> <br>
+    <p>Python</p>
+    <progress value="95" max="100"></progress> <br>
 
-<p>Java</p>
-<progress value="85" max="100"></progress> <br>
+    <p>JavaScript</p>
+    <progress value="90" max="100"></progress> <br>
 
-<p>C</p>
-<progress value="75" max="100"></progress> <br>
+    <p>Java</p>
+    <progress value="85" max="100"></progress> <br>
 
-<p>C++</p>
-<progress value="70" max="100"></progress> <br>
+    <p>C</p>
+    <progress value="75" max="100"></progress> <br>
 
-<p>C#</p>
-<progress value="65" max="100"></progress> <br>
+    <p>C++</p>
+    <progress value="70" max="100"></progress> <br>
 
-<p>SQL</p>
-<progress value="60" max="100"></progress> <br>
+    <p>C#</p>
+    <progress value="65" max="100"></progress> <br>
 
-<p>TypeScript</p>
-<progress value="55" max="100"></progress> <br>
+    <p>SQL</p>
+    <progress value="60" max="100"></progress> <br>
 
-<p>Go (Golang)</p>
-<progress value="50" max="100"></progress> <br>
+    <p>TypeScript</p>
+    <progress value="55" max="100"></progress> <br>
 
-<p>Rust</p>
-<progress value="45" max="100"></progress> <br>
+    <p>Go (Golang)</p>
+    <progress value="50" max="100"></progress> <br>
+
+    <p>Rust</p>
+    <progress value="45" max="100"></progress> <br>
+
+</body>
 
 
  
