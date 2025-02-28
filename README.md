@@ -27,9 +27,8 @@ Languages and Tools:
 <br>
 ### Most used languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasina18&langs_count=6&layout=compact&theme=tokyonight&hide=scss&include_java=true" alt="Most Used Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasina18&langs_count=6&layout=compact&theme=tokyonight&hide=scss&include_java=true" alt="Most Used Languages" />
+
 
 
 
