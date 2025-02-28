@@ -8,7 +8,7 @@ I am passionate about **technology, design, and innovation**, with expertise in 
 - 🎓 **B.Tech in Electrical and Electronics Engineering (EEE)** | 2020-2024  
 - 💡 Interested in **Frontend Development, and Smart Technology Solutions**  
 - 🛠️ Experienced with **ReactJS, OpenCV, Visual Studio Code, and Notepad++**  
-- 🎯 **Quick Learner | Adaptive | Strong Communication & Time Management Skills**  
+ 
 
 ## 💻 Projects  
 1️⃣ 📸**Object Detection** – Built a webcam-based object detection system using **Python & OpenCV**  
