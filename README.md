@@ -14,7 +14,7 @@ Connect with me:
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" />
 </a>         <a href="https://www.instagram.com/hasina__0718/" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
-</a>   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918125096606)
+</a>   [![Phone](https://img.shields.io/badge/Phone-1E90FF?style=for-the-badge&logo=phone&logoColor=white)](tel:+918125096606) 
 
 <br>
 Languages and Tools:
