@@ -25,35 +25,36 @@ Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/>
 <br>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30"/> Python</p>
+<p>Python</p>
 <progress value="95" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30"/> JavaScript</p>
+<p>JavaScript</p>
 <progress value="90" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="30" height="30"/> Java</p>
+<p>Java</p>
 <progress value="85" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30" height="30"/> C</p>
+<p>C</p>
 <progress value="75" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30" height="30"/> C++</p>
+<p>C++</p>
 <progress value="70" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30" height="30"/> C#</p>
+<p>C#</p>
 <progress value="65" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="30" height="30"/> SQL</p>
+<p>SQL</p>
 <progress value="60" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30" height="30"/> TypeScript</p>
+<p>TypeScript</p>
 <progress value="55" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="30" height="30"/> Go (Golang)</p>
+<p>Go (Golang)</p>
 <progress value="50" max="100"></progress> <br>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="30" height="30"/> Rust</p>
+<p>Rust</p>
 <progress value="45" max="100"></progress> <br>
+
 
  
 
