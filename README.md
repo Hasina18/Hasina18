@@ -7,8 +7,7 @@ A Passionate Full Stack Developer From India
 📖 **Advanced UI/UX Design**   
 💬 Ask me about Java, Python
 📫 Contact: ✉️ dudekulahasina58@gmail.com | 📞 8125096606
-
-Connect with me:
+##  **Contact with Me**  
 <br>
 <a href="https://www.linkedin.com/in/hasina-dudekula-5589b6281/" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" />
@@ -18,7 +17,7 @@ Connect with me:
  
 [![Phone](https://img.icons8.com/ios-filled/50/000000/phone.png)](tel:+918125096606)
 <br>
-Languages and Tools:
+## 🛠 **Languages & Tools**
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" height="40"/>
