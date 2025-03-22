@@ -7,7 +7,8 @@
 📖 **React & Frontend Development**   
 📖 **Advanced UI/UX Design**   
 💬 Ask me about Java, Python
-📫 Contact: ✉️ dudekulahasina58@gmail.com | 📞 8125096606
+📫 How to reach me dudekulahasina58@gmail.com
+📫 How to reach me 8125096606
 ##  **Connect with me:**  
 <a href="https://www.linkedin.com/in/hasina-dudekula-5589b6281/" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" />
