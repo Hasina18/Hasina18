@@ -1,5 +1,6 @@
-Hi 👋, I'm Hasina
-A Passionate Full Stack Developer From India
+<h1 align="center"><b>Hi 👋, I'm Hasina</b></h1>
+<h3 align="center"><b>A Passionate Full Stack Developer From India</b></h3>
+
 
 ## 🌱 Currently Learning  
 
